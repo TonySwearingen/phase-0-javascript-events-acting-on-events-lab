@@ -27,4 +27,4 @@ function moveDodgerRight() {
       moveDodgerRight();
     }
   });
-  dodger.style.backgroundColor = "#FF69B4";
+  dodger.style.backgroundColor = "green";
